@@ -15,7 +15,7 @@ public class DBUtil {
 		Connection conn = null;
 		
 		Properties pro = new Properties();
-		String path = "oracleDB2.properties";
+		String path = "oracleDB.properties";
 		
 		InputStream is = DBUtil.class.getResourceAsStream(path);
 		try {

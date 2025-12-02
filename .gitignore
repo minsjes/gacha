@@ -8,6 +8,10 @@
 *.iml
 *.ipr
 *.iws
+/shelf/
+/workspace.xml
+/mavenHomeManager.xml
+
 
 # Compiled class file
 *.class
